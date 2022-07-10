@@ -25,7 +25,7 @@ Feel free to ask me some topics, collaborate on my open source educational conte
 - Node js (In progress to certificate knowledgemente with Platzi)
  
 ## Would you like to contact me?
-- [Linked In](!https://www.linkedin.com/in/danny-pacheco-dev/)
-- [Personal mail](!dannypachecodev@hotmail.com)
-- [My website](!dapachecodev.com) (under building 🚧)
+- [Linked In](https://www.linkedin.com/in/danny-pacheco-dev/)
+- [Personal mail](dannypachecodev@hotmail.com)
+- [My website](dapachecodev.com) (under building 🚧)
 
